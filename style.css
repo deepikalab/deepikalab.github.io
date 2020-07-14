@@ -3,7 +3,7 @@
  */ body,html {width: 100%;
   height: 100%;
   font-family: 'Montserrat', sans-serif;
-  background: url('headlap.jpg') no-repeat center center fixed;/*  stretches image for full background */
+  background: url(headlap.jpg) no-repeat center center fixed;/*  stretches image for full background */
   -webkit-background-size: cover;
   background-size: cover;
   
